@@ -1,12 +1,1 @@
-# pair-programming-grey
-the purpose of this repo is to debug 
-
-test1
-
-test2 
-
-yet another test
-
-why are you not updating?  git 
-
-yet another test
+The purpose of this repo is mainly to solve those problems that vex us so often.  
